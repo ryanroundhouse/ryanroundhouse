@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ryanroundhouse/ryanroundhouse/master/ryan.jpg" alt="Ryan Graham professional photo" width=350px height=465px/>
+<img align="right" src="https://github.com/ryanroundhouse/ryanroundhouse/master/rg harris.jpg" alt="Ryan Graham professional photo" width=350px height=465px/>
 # Ryan Graham
 Ryan is an accomplished manager in the Research and Development department of NorthStar Utilities responsible for hiring, mentoring and training team members as well as establishing process, guiding product development, and coordinating with other business units.
 
