@@ -11,9 +11,9 @@ Ryan has established himself as a reliable and conscientious friend and team mem
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SPAs, SSR, SSGs, and the JAMstack](https://blog.ryangraham.ca/posts/2020/spas-ssr-ssgs-and-the-jamstack/)
 - [Thoughts about SSGs](https://blog.ryangraham.ca/posts/2020/thoughts-about-ssgs/)
 - [End meetings and appointments early](https://blog.ryangraham.ca/posts/2019/end-meetings-and-appointments-early/)
 - [Coping with externalized dependencies](https://blog.ryangraham.ca/posts/2018/coping-with-externalized-dependencies/)
 - [Problems Not Solutions](https://blog.ryangraham.ca/posts/2018/problems-not-solutions/)
-- [Simplicity](https://blog.ryangraham.ca/posts/2017/simplicity/)
 <!-- BLOG-POST-LIST:END -->
