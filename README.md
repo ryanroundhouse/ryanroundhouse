@@ -11,9 +11,9 @@ Ryan has established himself as a reliable and conscientious friend and team mem
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A team divided?](https://blog.ryangraham.ca/posts/2021/a-team-divided/)
 - [How I learned Angular and Nodejs?](https://blog.ryangraham.ca/posts/2020/how-i-learned-angular/)
 - [What is a DMZ?](https://blog.ryangraham.ca/posts/2020/what-is-a-dmz/)
 - [SPAs, SSR, SSGs, and the JAMstack](https://blog.ryangraham.ca/posts/2020/spas-ssr-ssgs-and-the-jamstack/)
 - [Thoughts about SSGs](https://blog.ryangraham.ca/posts/2020/thoughts-about-ssgs/)
-- [End meetings and appointments early](https://blog.ryangraham.ca/posts/2019/end-meetings-and-appointments-early/)
 <!-- BLOG-POST-LIST:END -->
