@@ -11,9 +11,9 @@ Ryan has established himself as a reliable and conscientious friend and team mem
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grooming and Definition of Ready](https://blog.ryangraham.ca/old-posts/2021/grooming-and-definition-of-ready/)
-- [A team divided?](https://blog.ryangraham.ca/old-posts/2021/a-team-divided/)
-- [How I learned Angular and Nodejs?](https://blog.ryangraham.ca/old-posts/2020/how-i-learned-angular/)
-- [What is a DMZ?](https://blog.ryangraham.ca/old-posts/2020/what-is-a-dmz/)
-- [SPAs, SSR, SSGs, and the JAMstack](https://blog.ryangraham.ca/old-posts/2020/spas-ssr-ssgs-and-the-jamstack/)
+- [Difference between unit and integration testing](https://blog.ryangraham.ca/post/difference-between-unit-and-integration-testing/index.html)
+- [Unit test behavior, not implementation](https://blog.ryangraham.ca/post/unit-test-behavior-not-implementation/index.html)
+- [Why test software?](https://blog.ryangraham.ca/post/why-test-software/index.html)
+- [Grooming and Definition of Ready](https://blog.ryangraham.ca/post/grooming-and-definition-of-ready/index.html)
+- [How I learned Angular and Nodejs?](https://blog.ryangraham.ca/post/how-i-learned-angular-and-nodejs/index.html)
 <!-- BLOG-POST-LIST:END -->
