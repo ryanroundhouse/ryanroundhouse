@@ -13,7 +13,6 @@ Ryan has established himself as a reliable and conscientious friend and team mem
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Software debugging - a practical approach](https://blog.ryangraham.ca/post/Software-debugging-a-practical-approach/index.html)
 - [Difference between unit and integration testing](https://blog.ryangraham.ca/post/difference-between-unit-and-integration-testing/index.html)
 - [Unit test behavior, not implementation](https://blog.ryangraham.ca/post/unit-test-behavior-not-implementation/index.html)
