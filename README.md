@@ -8,8 +8,6 @@ Ryan has been interested in how people learn since a very young age. This intens
 
 His professional experience and expertise has earned him opportunities to lead large teams, consult for companies, play with cutting-edge technologies, and share his love of learning with all those around him.
 
-Ryan has established himself as a reliable and conscientious friend and team member. He is happiest with his wife Katie raising their two sons Odin and Cyrus in his hometown of Ottawa, Ontario, Canada.
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
